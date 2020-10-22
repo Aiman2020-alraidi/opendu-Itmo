@@ -1,9 +1,7 @@
 {
-
-"headers": {
-  "/*" : {
-    " X-Author" : "itmo294646"
+  "headers": {
+    "/*" : {
+      " X-Author" : "itmo294646"
+    }
   }
-}
-
 }
